@@ -1,0 +1,13 @@
+name: enel682-lab
+dependencies:
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - pandas
+  - pillow
+  - graphviz
+  - python-graphviz
+  - imageio
+  - joblib
+  - seaborn
