@@ -11,3 +11,4 @@ dependencies:
   - imageio
   - joblib
   - seaborn
+  - yellowbrick
